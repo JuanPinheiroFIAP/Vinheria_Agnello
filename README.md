@@ -52,3 +52,6 @@ Para executar o código, é necessário configurar as seguintes variáveis:
 
 ## Referências
 : https://www.tinkercad.com/things/lgmG01b7IDp
+
+## Preview
+![tikercad-preview](/images/cp5.png)
