@@ -14,7 +14,7 @@ O projeto usa os seguintes componentes:
   - Potenciômetro de 250 kilohms
   - 7 resistores de 220 ohms
   - 7 LEDs
-  - 
+    
 O código lê os valores de temperatura, luminosidade e umidade do sensor a cada 5 segundos e os envia para a Tago usando o protocolo MQTT.
 Para simulação online através da plataforma TinkerCad foi utilizado o Arduino Uno R3, porém para obter os resultados esperados será utilizado a plaquinha WI-FI ESP32.
 
